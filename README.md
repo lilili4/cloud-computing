@@ -3,5 +3,6 @@
 - [实验一github](https://github.com/lilili4/cloud-computing/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%80.md)
 - [实验二wordpress](https://github.com/lilili4/cloud-computing/blob/master/%E5%AE%9E%E9%AA%8C2.md)
 
-- [实验三docker]([https://github.com/lilili4/cloud-computing/blob/master/docker%E5%AE%9E%E9%AA%8C.md](https://github.com/lilili4/cloud-computing/blob/master/docker实验.md))
+
+- [实验三docker](https://github.com/lilili4/cloud-scomputing/blob/master/docker实验.md)
 
