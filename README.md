@@ -6,3 +6,5 @@
 
 - [实验三docker](https://github.com/lilili4/cloud-computing/blob/master/docker实验.md)
 
+- [dockerfile](https://github.com/lilili4/cloud-computing/blob/master/dockerfile.md)
+
