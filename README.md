@@ -8,3 +8,5 @@
 
 - [dockerfile](https://github.com/lilili4/cloud-computing/blob/master/dockerfile.md)
 
+- [实验4，ceph](https://github.com/lilili4/cloud-computing/blob/master/ceph.md)
+
